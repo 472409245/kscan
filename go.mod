@@ -1,4 +1,4 @@
-module kscan
+module github.com/472409245/kscan
 
 go 1.18
 
